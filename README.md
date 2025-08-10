@@ -11,7 +11,7 @@ thanks to penguin-eggs now i made the Console version available but it has so ma
 installation is not available. if you wondered why i didnt put the source code its because its already available in the system files of the os and the services are python codes and html codes.
 
 # Docs 
-- [Installation (NOT_AVAILABLE)](docs/installation.md)
+- [Installation](docs/installation.md)
 - [Application Development](docs/appdev.md)
 
 thanks for reading ;)
