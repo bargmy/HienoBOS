@@ -13,5 +13,6 @@ installation is not available. if you wondered why i didnt put the source code i
 # Docs 
 - [Installation](docs/installation.md)
 - [Application Development](docs/appdev.md)
+- [Update](docs/update.md)
 
 thanks for reading ;)
